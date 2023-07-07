@@ -11,7 +11,12 @@ body {
 }
 
 
-
+footer{
+  background-color: #271060;
+  padding: 20px;
+  color: #f2f7f7;
+  text-align: center;
+}
 
 .logo2{
   width: 60px;
@@ -255,7 +260,7 @@ h5{
   text-align: center;
 }
 .normal_link{
-  color: #30b1d1;
+  color: #0000FF;
 }
 .icon {  
   background-color: transparent;
@@ -413,11 +418,11 @@ span {
 .custom-shape-divider-top-1688656323 .shape-fill {
   fill: #321675;
 }
-/*CONTACT ME SECTION*/
+/*DOWNLOAD MY CV*/
 .center-container {
   display: grid;
   place-items: center;
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 .pdf-container {
@@ -426,7 +431,7 @@ span {
 }
 
 .pdf-left {
-  width: 100px; /* Adjust the width as needed */
+  max-width: 100px; /* Adjust the width as needed */
 }
 
 .pdf-logo {
@@ -435,7 +440,7 @@ span {
 
 .download-title {
   margin-left: 20px; /* Adjust the margin as needed */
-  font-size: 30px;
+  font-size: 25px;
 }
 
 
